@@ -1,4 +1,4 @@
-## Stacks is an easy to use task manager that helps to organize your tasks in an elegant and intuitive way. Using kanban paradigm for managing your projects Stacks offers a flexible and visual way to organize your tasks with ease. Combining powerful features like tags, task grouping, quick search and attachments with a beautiful user interface, Stacks aims to make task management both easy and fun.
+Stacks is an easy to use task manager that helps to organize your tasks in an elegant and intuitive way. Using kanban paradigm for managing your projects Stacks offers a flexible and visual way to organize your tasks with ease. Combining powerful features like tags, task grouping, quick search and attachments with a beautiful user interface, Stacks aims to make task management both easy and fun.
 
 ### Features:
 * Colored tagging system
